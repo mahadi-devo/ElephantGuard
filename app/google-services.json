@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "932397594555",
+    "firebase_url": "https://elephantguard-c55de.firebaseio.com",
+    "project_id": "elephantguard-c55de",
+    "storage_bucket": "elephantguard-c55de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932397594555:android:24a2996ed2336b7856369e",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.classification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932397594555-o3652k5s870mt2lkoblfultpks1lsnnn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.tensorflow.lite.examples.classification",
+            "certificate_hash": "e5183f98568741ab866ce2c84d4abdcb78b018e0"
+          }
+        },
+        {
+          "client_id": "932397594555-r24eofb46kiv9aoal69i1ldhm82srqb7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAofvD4b7xNMxJ0EeemJkLeCzbg2YciViA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932397594555-r24eofb46kiv9aoal69i1ldhm82srqb7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
